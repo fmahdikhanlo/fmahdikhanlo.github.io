@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+<img src=https://avatars3.githubusercontent.com/u/74380143?s=400&v=4""/>
 
-You can use the [editor on GitHub](https://github.com/fmahdikhanlo/fmahdikhanlo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+###  About Me
+ I am fatemeh mahdikhanlo , born on 1373/07/24;
+ I am a bachelor student of Payame Noor University of Shahriar Center with a major in computer software engineering.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### phon number
++ 09109362664
 
-### Markdown
+### Personal information
++ First name : Fatemeh
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ Last name : Mahdikhanlo
 
-```markdown
-Syntax highlighted code block
++ Birth Day : 24 October 1373
 
-# Header 1
-## Header 2
-### Header 3
+### Languages
++ Persian
 
-- Bulleted
-- List
++ English
 
-1. Numbered
-2. List
+### Skills
 
-**Bold** and _Italic_ and `Code` text
++ Reading skills 4 out of 5
 
-[Link](url) and ![Image](src)
-```
++ Writing skills 3 out of 5
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
++ Conversational skills 3 out of 5
+ 
+### Work Experience
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fmahdikhanlo/fmahdikhanlo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Certifications
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Contact Me
+- Gmail: fmahdikhanli.73@gmail.com
+
+
+### درباره من
+من فاطمه مهدی خانلو هستم ، متولد 1373/07/24;
+دانشجوی کارشناسی دانشگاه پیام نور مرکز شهریار با گرایش مهندسی کامپیوترنرم افزار .
+
+### شماره تماس 
++ 09109362664
+
+### اطلاعات شخصی
++ نام: فاطمه
+
++ نام خانوادگی : مهدی خانلو
+
++ تولد: 24 مهر 1373
+
+### زبان
++ فارسی
+
++ انگلیسی  
+
+### مهارت ها
++ مهارت خواندن 4 از 5 
++ مهارت 3 از 5
++ مهارت گفتگو 3 از 5  
+
+### سوابق کاری
+
+
+### گواهی مهارت
